@@ -20,7 +20,8 @@ Here are a few examples of projects I've worked on:
 ## Contact  
 
 Feel free to connect with me for collaboration or data-driven projects!  
-📧 Email: [Your Email Here]  
-🔗 LinkedIn: [Your LinkedIn Profile Here]  
+📧 Email: mendezchristian@live.com
+🔗 LinkedIn: www.linkedin.com/in/christian-mendez-135b58102
+Tableau portfolio:  https://public.tableau.com/app/profile/christian.mendez/vizzes
 
 ---
